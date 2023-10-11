@@ -1,5 +1,5 @@
 +++
-title = "I'm just taking this blog for a ride"
+title = "Updating site"
 date = "2023-10-11T03:10:23-04:00"
 author = ""
 authorTwitter = "" #do not include @
