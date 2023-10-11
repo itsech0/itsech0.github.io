@@ -13,9 +13,9 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-In Buddhism, the Four Noble Truths are "the truths of the Noble Ones", the truths or realities for the "spiritually worthy ones".
+The Four Noble Truths describe the reality of the struggle with life and a way to curb strife through the curbing of craving and the following of the noble eight-fold path.
 
-The truths are:
+The Four Noble Truths are:
 
 dukkha (literally "suffering"; here "unsatisfactoriness") is an innate characteristic of existence in the realm of samsara;
 
