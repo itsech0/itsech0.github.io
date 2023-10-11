@@ -12,6 +12,8 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
+These are the eight noble truths in Buddhism:
+
 Right View: our actions have consequences, death is not the end, and our actions and beliefs have consequences after death. The Buddha followed and taught a successful path out of this world and the other world (heaven and underworld/hell).[31][32][33][web 1] Later on, right view came to explicitly include karma and rebirth, and the importance of the Four Noble Truths, when "insight" became central to Buddhist soteriology, especially in Theravada Buddhism.[34][35]
 
 Right Resolve or Intention: the giving up of home and adopting the life of a religious mendicant in order to follow the path; this concept aims at peaceful renunciation, into an environment of non-sensuality, non-ill-will (to loving kindness), away from cruelty (to compassion).[36] Such an environment aids contemplation of impermanence , suffering, and non-Self.[36]
