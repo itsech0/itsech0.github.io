@@ -6,18 +6,7 @@
     <description>Recent content in Posts on nukant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 05:40:56 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Moving the blog to ipfs</title>
-      <link>/posts/ipfs/</link>
-      <pubDate>Wed, 11 Oct 2023 05:40:56 -0400</pubDate>
-      
-      <guid>/posts/ipfs/</guid>
-      <description>I moved the blog to ipfs, it is now being served from an ipfs node.</description>
-      <content>&lt;p&gt;I moved the blog to ipfs, it is now being served from an ipfs node.&lt;/p&gt;
-</content>
-    </item>
-    
+    <lastBuildDate>Wed, 11 Oct 2023 04:18:58 -0400</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Angel Gabriel, John, Jesus, and Muhammad</title>
       <link>/posts/the-angel-gabriel-john-jesus-muhammad/</link>
