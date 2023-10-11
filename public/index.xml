@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Terminal</title>
+    <link>/</link>
+    <description>Recent content on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 11 Oct 2023 03:10:23 -0400</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello World</title>
+      <link>/posts/hello-world/</link>
+      <pubDate>Wed, 11 Oct 2023 03:10:23 -0400</pubDate>
+      
+      <guid>/posts/hello-world/</guid>
+      <description>This is a new, post, I&amp;rsquo;m testing out hugo This is an example post</description>
+      <content>&lt;h2 id=&#34;this-is-a-new-post-im-testing-out-hugo&#34;&gt;This is a new, post, I&amp;rsquo;m testing out hugo&lt;/h2&gt;
+&lt;p&gt;This is an example post&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

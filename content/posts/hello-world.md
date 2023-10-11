@@ -12,3 +12,7 @@ readingTime = false
 hideComments = false
 color = "" #color from the theme settings
 +++
+
+## This is a new, post, I'm testing out hugo
+
+This is an example post
