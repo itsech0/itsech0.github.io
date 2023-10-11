@@ -1,5 +1,5 @@
 +++
-title = "The Angel Gabriel John Jesus Muhammad"
+title = "The Angel Gabriel, John, Jesus, and Muhammad"
 date = "2023-10-11T04:18:58-04:00"
 author = ""
 authorTwitter = "" #do not include @
