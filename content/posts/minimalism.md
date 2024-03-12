@@ -1,8 +1,18 @@
----
-title: "Minimalism & Creative Activities"
+  GNU nano 7.2                      four-arts.md                                
++++
+title = "Minimalism & Creative Activities"
 date: 2024-03-12T15:51:02-04:00
-draft: true
----
+author = ""
+authorTwitter = "" #do not include @
+cover = ""
+tags = ["minimalism", "hobbies", "creativity"]
+keywords = ["minimalism", "hobbies", "creativity"]
+description = ""
+showFullContent = false
+readingTime = false
+hideComments = false
+color = "" #color from the theme settings
++++
 I've started to become interested in minimalism. Just being content with having as few items as possible becomes somewhat freeing. It is therapuetic, 
 because now I don't care about my stuff, theres no attachment to any item I possess. It comes back to buddhism and the concept of desire and attachment,
 your not even attached to the items you possess. There is no item you can not easily replace, and so you feel better about what you posses. Everything you

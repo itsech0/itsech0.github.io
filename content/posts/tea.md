@@ -13,7 +13,7 @@ hideComments = false
 color = "" #color from the theme settings
 +++
 
-I have getting more and more interested in trying different types of Chinese teas. I bought some in the flavors of Black Tea, OOlong, and Jasmine. They are loose and you just take 3 grams and boil them.  I was able to buy some at a Chinese grocery store for a reasonable price. You can use them more than once to get more value out of them.
+I have getting more and more interested in trying different types of Chinese teas. I bought some in the flavors of Black Tea, Oolong, and Jasmine. They are loose and you just take 3 grams and boil them.  I was able to buy some at a Chinese grocery store for a reasonable price. You can use them more than once to get more value out of them.
 
 At first I was drinking them with sugar, but I have decided to start drinking them without sugar because its decent without sugar.
 

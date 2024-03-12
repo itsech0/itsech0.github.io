@@ -6,7 +6,16 @@
     <description>Recent content in Tags on nukant</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 11 Oct 2023 04:18:58 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 12 Oct 2023 22:06:59 -0400</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tea</title>
+      <link>/tags/tea/</link>
+      <pubDate>Thu, 12 Oct 2023 22:06:59 -0400</pubDate>
+      
+      <guid>/tags/tea/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>christianity</title>
       <link>/tags/christianity/</link>
@@ -14,7 +23,6 @@
       
       <guid>/tags/christianity/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -24,7 +32,6 @@
       
       <guid>/tags/islam/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -34,7 +41,6 @@
       
       <guid>/tags/religion/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -44,7 +50,6 @@
       
       <guid>/tags/chinese/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -54,7 +59,6 @@
       
       <guid>/tags/history/</guid>
       <description></description>
-      <content></content>
     </item>
     
     <item>
@@ -64,7 +68,6 @@
       
       <guid>/tags/buddhism/</guid>
       <description></description>
-      <content></content>
     </item>
     
   </channel>
