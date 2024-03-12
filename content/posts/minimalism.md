@@ -1,6 +1,6 @@
 +++
 title = "Minimalism & Creative Activities"
-date: "2024-03-12T15:51:02-04:00"
+date = "2024-03-12T15:51:02-04:00"
 author = ""
 authorTwitter = "" #do not include @
 cover = ""
