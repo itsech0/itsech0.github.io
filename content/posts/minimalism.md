@@ -1,4 +1,3 @@
-  GNU nano 7.2                      four-arts.md                                
 +++
 title = "Minimalism & Creative Activities"
 date: 2024-03-12T15:51:02-04:00
