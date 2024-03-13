@@ -14,7 +14,7 @@ color = "" #color from the theme settings
 +++
 I've started to become interested in minimalism. Just being content with having as few items as possible becomes somewhat freeing. It is therapuetic, 
 because now I don't care about my stuff, theres no attachment to any item I possess. It comes back to buddhism and the concept of desire and attachment,
-your not even attached to the items you possess. There is no item you can not easily replace, and so you feel better about what you posses. Everything you
+your not even attached to the items you possess. There is no item you can not easily replace, and so you feel better about what you possess. Everything you
 own has a purpose and no item is without reason for purchase.
 
 In this day and age, people continue to try and find their sense of happiness through the items they purchase (Consumerism). I've seen this behavior in others and in the 
