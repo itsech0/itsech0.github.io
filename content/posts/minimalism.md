@@ -29,6 +29,6 @@ of contentment, and through my activities in creativity, I can express myself an
 I'm taking inspiration from the poets and painters from ancient Chinese & Japanese history; they put effort into their poetry, music, and paintings and found contentment through
 their creative output, that is what I am seeking too.
 
-I will dedicate my time to atleast create one thing every day, even if its a small item, it could be poetry, or a small painting, or playing with my piano or dizi, just something
+I will dedicate my time to atleast create one piece of art every day, even if its a small item, it could be poetry, or a small painting, or playing with my piano or dizi, just something
 created everyday. You can feel the progress through each item you create, it becomes a game where you measure and identify your output and see ways you can become better. I've already seen
 this through my art, and I wish to expand it to poetry and music.
